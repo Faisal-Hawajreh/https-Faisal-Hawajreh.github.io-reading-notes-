@@ -9,7 +9,7 @@
 - [ ] Prep: Setup your Accounts
 - [x] Prep: Create a Reading Notes Repo
 - [ ] Prep: Practice in the Terminal
-- [x] Prep: Introduction to SQL ([SQL task](./Introduction to SQL.md).
+- [x] Prep: Introduction to SQL [SQL task](./Introduction to SQL.md)
 - [ ] Prep: Career Coaching Status Report
 - [ ] Prep: Career: Professional Etiquette
 - [ ] Prep: Career: Update Your Resume
