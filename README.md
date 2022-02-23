@@ -9,13 +9,13 @@
 - [ ] Prep: Setup your Accounts
 - [x] Prep: Create a Reading Notes Repo
 - [ ] Prep: Practice in the Terminal
-- [x] Prep: Introduction to SQL. [SQL Task](./Introduction to SQL.md)
+- [x] Prep: Introduction to SQL. 
 - [ ] Prep: Career Coaching Status Report
 - [ ] Prep: Career: Professional Etiquette
 - [ ] Prep: Career: Update Your Resume
 
 
-
+[SQL Task](./Introduction to SQL.md)
 
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
