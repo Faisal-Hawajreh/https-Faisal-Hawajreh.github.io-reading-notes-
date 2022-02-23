@@ -1,4 +1,4 @@
-# reading notes
+# Reading Notes
 ### **Summary**
 ***This website will include all reading notes of software Development from Beginner level to advance level***
 > if you want to know more about me ... you can visit my [LinkedIn Account](https://www.linkedin.com/in/faisal-alhawajreh/).
@@ -6,7 +6,7 @@
 - [x] Prep: Get Started with Python, Brush Up on Everything Else
 - [x] Prep: Deck Out Your Editor
 - [ ] Prep: The Growth Mindset
-- [ ] Prep: Setup your Accounts
+- [x] Prep: Setup your Accounts
 - [x] Prep: Create a Reading Notes Repo
 - [ ] Prep: Practice in the Terminal
 - [x] Prep: Introduction to SQL. ([SQL File](./IntroSQL.md))
