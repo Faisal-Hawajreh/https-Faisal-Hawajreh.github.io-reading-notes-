@@ -8,7 +8,7 @@
 - [ ] Prep: The Growth Mindset
 - [x] Prep: Setup your Accounts
 - [x] Prep: Create a Reading Notes Repo
-- [ ] Prep: Practice in the Terminal
+- [x] Prep: Practice in the Terminal. ([Terminal Summary](./PracticeInTerminal.md)).
 - [x] Prep: Introduction to SQL. ([SQL File](./IntroSQL.md))
 - [ ] Prep: Career Coaching Status Report
 - [ ] Prep: Career: Professional Etiquette
