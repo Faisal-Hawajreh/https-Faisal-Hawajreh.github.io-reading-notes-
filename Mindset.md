@@ -1,6 +1,6 @@
 # Mindset
 ## Upgrade your technical skills with deliberate practice
-- when we push ourselves out of confort zone, we start learn, oborvsion, research and analyse... these things what build our skills and our knowledge...
+- when we push ourselves out of our comfort zone, we start to learn, operate, research, and analyze... these things are what build our skills and our knowledge...
 > Much of the benefit of learning a new technique or skill is the ability to apply it in novel situations.
 
 ## The power of believing that you can improve:
