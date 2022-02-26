@@ -2,8 +2,9 @@
 ## Upgrade your technical skills with deliberate practice
 - when we push ourselves out of confort zone, we start learn, oborvsion, research and analyse... these things what build our skills and our knowledge...
 > Much of the benefit of learning a new technique or skill is the ability to apply it in novel situations.
+
 ## The power of believing that you can improve:
--- We have to say "not yet" to ourselves... we have to give ourselves a chance to try again and again.. in different ways.. to reach our goals.. but sometimes we still need someone to tell us "not yet"
+- We have to say "not yet" to ourselves... we have to give ourselves a chance to try again and again.. in different ways.. to reach our goals.. but sometimes we still need someone to tell us "not yet"
 - if we reach this point "I now realize I've wasted most of my life.", we have to think again about what should we do. As long as we're alive.. then we still have a chance.
 ## Grit: The power of passion and perseverance
 > - "Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint."
