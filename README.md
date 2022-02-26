@@ -5,7 +5,7 @@
 > This is my Python course certicate [image](./images/cert-25073180-1073.png)
 - [x] Prep: Get Started with Python, Brush Up on Everything Else
 - [x] Prep: Deck Out Your Editor
-- [ ] Prep: The Growth Mindset
+- [x] Prep: The Growth Mindset ([Mindset](./Mindset.md)).
 - [x] Prep: Setup your Accounts
 - [x] Prep: Create a Reading Notes Repo
 - [x] Prep: Practice in the Terminal. ([Terminal Summary](./PracticeInTerminal.md)).
