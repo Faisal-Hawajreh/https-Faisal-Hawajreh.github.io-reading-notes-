@@ -10,9 +10,9 @@
 - [x] Prep: Create a Reading Notes Repo.
 - [x] Prep: Practice in the Terminal. ([Terminal Summary](./PracticeInTerminal.md)).
 - [x] Prep: Introduction to SQL. ([SQL File](./IntroSQL.md)).
-- [ ] Prep: Career Coaching Status Report
+- [x] Prep: Career Coaching Status Report
 - [x] Prep: Career: Professional Etiquette ([Summary](https://docs.google.com/document/d/16liaGMwlPXU_oPD2mb5iW8xN_h0xqC5_3JLFZvZAFxo/edit?usp=sharing)).
-- [ ] Prep: Career: Update Your Resume
+- [x] Prep: Career: Update Your Resume
 
 
 
