@@ -14,6 +14,15 @@
 - [x] Prep: Career: Professional Etiquette ([Summary](https://docs.google.com/document/d/16liaGMwlPXU_oPD2mb5iW8xN_h0xqC5_3JLFZvZAFxo/edit?usp=sharing)).
 - [x] Prep: Career: Update Your Resume
 
+## Table of Content
+
+| Reading Task Number  |                       Link                        |
+| :----:               |                      :----:                       |
+| 1                    | [README Link](./Reading/Week01/Class01/Class01.md)|
+| 2                    | [README Link](./Reading/Week01/Class02/Class02.md)|
+| 3                    | [README Link](./Reading/Week01/Class03/Class03.md)|
+| 4                    | [README Link](./Reading/Week02/Class04.md)|
+| 5                    | [README Link]()|
 
 
 
