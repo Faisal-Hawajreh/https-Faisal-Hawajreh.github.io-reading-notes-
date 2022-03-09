@@ -22,7 +22,7 @@
 | 2                    | [README Link](./Reading/Week01/Class02/Class02.md)|
 | 3                    | [README Link](./Reading/Week01/Class03/Class03.md)|
 | 4                    | [README Link](./Reading/Week02/Class04.md)|
-| 5                    | [README Link]()|
+| 5                    | [README Link](./Reading/Week02/Class05.md)|
 
 
 
