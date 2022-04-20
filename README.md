@@ -26,6 +26,7 @@
 | 6                    | [README Link](./Reading/Week03/Class06.md)|
 | 7                    | [README Link](./Reading/Week03/Class07.md)|
 | 8                    | [README Link](./Reading/Week03/Class08.md)|
+| 9                    | [README Link](./Reading/Week04/Class09.md)|
 
 
 
