@@ -25,6 +25,7 @@
 | 5                    | [README Link](./Reading/Week02/Class05.md)|
 | 6                    | [README Link](./Reading/Week03/Class06.md)|
 | 7                    | [README Link](./Reading/Week03/Class07.md)|
+| 8                    | [README Link](./Reading/Week03/Class08.md)|
 
 
 
