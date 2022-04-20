@@ -27,7 +27,7 @@
 | 7                    | [README Link](./Reading/Week03/Class07.md)|
 | 8                    | [README Link](./Reading/Week03/Class08.md)|
 | 9                    | [README Link](./Reading/Week04/Class09.md)|
-
+| 10                    | [README Link](./Reading/Week04/Stacks_and_Queues.md)|
 
 
 ## Code 102 - Intro to Software Development
