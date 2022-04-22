@@ -19,7 +19,7 @@
 | Reading Task Number  |                       Link                        | Reading Task Number  |                       Link                        |
 | :----:               |                      :----:                       | :----:               |                      :----:                       |
 | 1                    | [README Link](./Reading/Week01/Class01/Class01.md)| 11                   | [README Link](./Reading/Week05/Class11.md)|
-| 2                    | [README Link](./Reading/Week01/Class02/Class02.md)| 12                   |  |
+| 2                    | [README Link](./Reading/Week01/Class02/Class02.md)| 12                   | [README Link](./Reading/Week05/Class12.md)|
 | 3                    | [README Link](./Reading/Week01/Class03/Class03.md)| 13                   |  |
 | 4                    | [README Link](./Reading/Week02/Class04.md)| 14                   |  |
 | 5                    | [README Link](./Reading/Week02/Class05.md)| 15                   |  |
