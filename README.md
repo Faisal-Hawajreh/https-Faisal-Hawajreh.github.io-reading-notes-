@@ -21,7 +21,7 @@
 | 1                    | [README Link](./Reading/Week01/Class01/Class01.md)| 11                   | [README Link](./Reading/Week05/Class11.md)|
 | 2                    | [README Link](./Reading/Week01/Class02/Class02.md)| 12                   | [README Link](./Reading/Week05/Class12.md)|
 | 3                    | [README Link](./Reading/Week01/Class03/Class03.md)| 13                   | [README Link](./Reading/Week05/Class13.md)|
-| 4                    | [README Link](./Reading/Week02/Class04.md)| 14                   |  |
+| 4                    | [README Link](./Reading/Week02/Class04.md)| 14                   | [README Link](./Reading/Week06/Class14.md)|
 | 5                    | [README Link](./Reading/Week02/Class05.md)| 15                   |  |
 | 6                    | [README Link](./Reading/Week03/Class06.md)| 16                   |  |
 | 7                    | [README Link](./Reading/Week03/Class07.md)| 17                   |  |
