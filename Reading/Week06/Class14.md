@@ -8,7 +8,8 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - Export to many file formats .
 - Embed in JupyterLab and Graphical User Interfaces.
 - Use a rich array of third-party packages built on Matplotlib.
-- 
+
+
 ### IPython
 
 One of Python’s most useful features is its interactive interpreter. It allows for very fast testing of ideas without the overhead of creating test files as is typical in most programming languages. However, the interpreter supplied with the standard Python distribution is somewhat limited for extended interactive use.
